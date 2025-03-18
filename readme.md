@@ -1,7 +1,7 @@
 # swbHYRB
 
 ## Overview
-swbHYRB is an example implementation of the Soil-Water-Balance (SWB) model for the Headwater of the Yellow River (HYRB). This example runs the SWB model for the period 2010-2011, with a temporal resolution of 1 month and a spatial resolution of 1 km.
+swbHYRB is an example implementation of the Soil-Water-Balance (SWB) model for the headwaters of the Yellow River Basin (HYRB) to simulate net infiltration (recharge) to groundwater. This example runs the SWB model for the period 2010–2011, with a temporal resolution of one month and a spatial resolution of 1 km.
 
 ## Input Data
 ### Raster Data (Located in `test_data/cs`)
